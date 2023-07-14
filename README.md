@@ -10,8 +10,8 @@
 2) пополнение
 3) перевод между счетами
 
-Stack:
-* java 17
-* maven 4.0.0
-* junit testing
-* javadoc
+# Stack:
+- java 17
+- maven 4.0.0
+- junit testing
+- javadoc
